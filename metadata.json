@@ -1,0 +1,8 @@
+{
+  "name": "Sổ Chủ Nhiệm Lớp 11A13 - THPT Trần Quốc Tuấn",
+  "description": "Hệ thống quản lý lớp học chủ nhiệm THPT: theo dõi danh sách học sinh, dân tộc, cán sự lớp, điểm danh hàng ngày, tiêu chí thi đua và sao lưu dữ liệu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
